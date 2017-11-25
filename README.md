@@ -9,3 +9,4 @@
 5. Модель отображения. Часть 2: Позиционирование элементов ([презентация](https://rawgit.com/urfu-2016/markup-slides/master/05-mo-2/index.html#/), [видео](https://www.youtube.com/watch?v=BzhWTyn3flU&feature=youtu.be))
 6. [Браузер](https://rawgit.com/urfu-2017/markup-slides/master/06-browser/index.html#/)
 7. [Раскладка](https://rawgit.com/urfu-2017/markup-slides/master/07-layout/index.html#/)
+8. [Графика](https://rawgit.com/urfu-2017/markup-slides/master/08-graphic/index.html#/)
