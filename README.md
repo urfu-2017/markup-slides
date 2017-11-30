@@ -10,4 +10,4 @@
 6. [Браузер](https://rawgit.com/urfu-2017/markup-slides/master/06-browser/index.html#/)
 7. [Раскладка](https://rawgit.com/urfu-2017/markup-slides/master/07-layout/index.html#/)
 8. Графика ([презентация](https://rawgit.com/urfu-2017/markup-slides/master/08-graphic/index.html#/),[видео](https://www.youtube.com/watch?v=3hvUi_v1uKA&feature=youtu.be))
-9. Анимации ([видео] (https://www.youtube.com/watch?v=vzsNGF6MaNM&feature=youtu.be))
+9. Анимации ([видео](https://www.youtube.com/watch?v=vzsNGF6MaNM&feature=youtu.be))
